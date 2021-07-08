@@ -75,7 +75,7 @@ export function AboutUs() {
   return (
     <AboutUsContainer>
       <CarContainer>
-        <img src={JeepImg} />
+        <img src={JeepImg} alt="Jeep car" />
       </CarContainer>
       <InfoContainer>
         <Title>Feel The Best Experience With Our Rental Deals</Title>
